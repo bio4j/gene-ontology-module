@@ -9,5 +9,5 @@ To use it in you sbt-project, add this to you `build.sbt`:
 ```scala
 resolvers += "Era7 maven releases" at "http://releases.era7.com.s3.amazonaws.com"
 
-libraryDependencies += "bio4j" %% "gene-ontology-module" % "0.2.0"
+libraryDependencies += "bio4j" %% "gene-ontology-module" % "0.1.0"
 ```
